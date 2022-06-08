@@ -1,3 +1,7 @@
+import json
+import os
+import php
+import composer
 <?php
 
 require_once 'vendor/autoload.php'; // skip this if using a framework / autoloading elsewhere
